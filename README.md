@@ -1,7 +1,6 @@
-# Simulation for Active Swimmers (Active Brownian Motion Particles)
+# Simulation for Active Swimmers (Active Brownian Motion Particles) in a Tesla Valve
 
-Author: Wang, Rogers, and He.
-
-This repository includes the essential code used in the manuscript: Rogers, He, and Wang. "..........", published in "....".
-
-Note that the algorithms are based on a published paper by Volpe G, Gigan S, Volpe G (2014) Simulation of the active Brownian motion of a microswimmer. American Journal of Physics, 82(7):659–664. https://doi.org/10.1119/1.4870398
+* This repository includes the essential code used in the article:
+  * A Rogers, Z He, and Y Wang. "Exploring the Potential of Tesla Valve for Filtering and Sorting Microscale Active Swimmers: A Computational Study". Applications in Engineering Science, 2023.
+* The algorithms use the code are based on another published article:
+  * G Volpe, S Gigan, G Volpe. "Simulation of the active Brownian motion of a microswimmer". American Journal of Physics, 2014.
